@@ -54,7 +54,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 80px;
+    padding: 0px 80px;
 }
 ul li{
     list-style: none;
@@ -70,14 +70,15 @@ ul li button{
 .sec-2{
     display: flex;
     flex-direction: row;
-    /* justify-content:space-between; */
+    justify-content:space-between;
     align-items: center;
     padding: 50px 200px;
+    /* margin-bottom: 50px; */
 }
 .sec-2-head{
-    flex: 1;
+    width: 60%;
     font-weight: 700;
-    font-size: 64px;
+    font-size: 50px;
 }
 .sec-2-con{
     flex: 1;
@@ -86,8 +87,7 @@ ul li button{
     justify-content: space-between;
 }
 .sec-2-con p{
-    font-size: 20px;
-    width: 75%;
+    font-size: 22px;
     color: rgba(126,139,182,1.0);
     margin: 0 0 25px 0;
 }
@@ -101,14 +101,18 @@ ul li button{
     padding: 16px 24px;
 }
 .dash{
-    width: 70%;
+    width: 65%;
     margin: 0 0 40px 0;
 }
 .companies{
-    position: relative;
+    flex-wrap: wrap;
+    flex-direction: row;
     padding: 50px 250px;
     display: flex;
     justify-content: space-between;
+}
+.companies svg{
+    /* padding: 50px; */
 }
 .border-bottom{
     width: 75%;
@@ -119,7 +123,7 @@ ul li button{
 .features{
     display: flex;
     flex-direction: column;
-    padding: 50px 300px;
+    padding: 50px 150px;
 }
 .features-con{
     width: 40%;
@@ -144,11 +148,10 @@ ul li button{
     display: flex;
     flex-direction: column;
     width: 48%;
-    border: 1px solid rgba(204, 210, 233, 0.5);
+    border: 2px solid rgba(204, 210, 233, 0.5);
     border-radius: 16px;
     padding: 38px 36px;
-    margin-bottom: 30px;
-    
+    margin-bottom: 40px;
 }
 .blocks-title{
     font-weight: 600;
@@ -162,6 +165,7 @@ ul li button{
     -moz-box-shadow: 10px 18px 71px -40px rgba(0,0,0,0.75);
     box-shadow: 10px 18px 71px -40px rgba(0,0,0,0.75);
     cursor: pointer;
+    border:2px solid #0059F7 ;
     transition: 0.5s;
     
 }
@@ -169,8 +173,8 @@ ul li button{
     display: flex;
     justify-content: space-between;
     background: rgba(0,89,247,1.0);
-    padding: 52px 56px;
-    margin: 30px 190px 100px 190px;
+    padding: 30px 56px;
+    margin: 0px 190px 50px 190px;
     border-radius: 24px;
     align-items: center;
 }
@@ -195,7 +199,7 @@ footer{
     flex-direction: row;
     justify-content: space-between;
     background: #162044;
-    padding: 60px 100px;
+    padding: 30px 100px;
     color: #fff;
 }
 .socials{
@@ -216,8 +220,6 @@ footer{
     margin: 0 10px;
 }
 
-/* Responsiveness */ 
-
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     
@@ -228,7 +230,7 @@ footer{
         padding: 20px;
     }
     .sec-2{
-        padding: 50px;
+        padding: 30px;
         flex-direction: column;
         justify-content: center;
         text-align: center;
@@ -236,7 +238,7 @@ footer{
         
     }
     .sec-2-head{
-        font-size: 50px;
+        font-size: 40px;
         margin-bottom: 20px;
     }
     .sec-2-con{
@@ -246,16 +248,6 @@ footer{
         width: 100%;
         padding: 0 10px;
         
-    }
-    .companies{
-        flex-wrap: wrap;
-        padding: 0;
-        padding: 50px;
-        /* flex-direction: column; */
-        align-items: center;
-    }
-    .companies svg{
-        margin:25px 0;
     }
     .border-bottom{
         margin-bottom: 30px;
@@ -289,10 +281,21 @@ footer{
 
     }
     .trial-head{
-        padding: 0;       
+        padding: 0;
+        font-size: 20px;       
+    }
+    .trial-small{
+
+    }
+    .trial button{
+        padding: 0;
+        margin: 0;
+        padding: 10px 20px;
+        font-size: 15px;
     }
     footer{
         margin: 0;
+        flex-direction: column;
         padding: 0;
         padding: 50px;
         align-items: center;
@@ -300,23 +303,24 @@ footer{
     .socials{
         padding: 0;
         margin: 0;
+        margin-bottom: 10px;
     }
     .socials a{
-        margin: 5px;
+        margin: 10px
     }
     .terms{
         padding: 0;
         margin: 0;
         flex-direction: row;
+        margin-bottom: 10px;
     }
     .copyright{
         padding: 0;
         margin: 0;
     }
   }
-  
   /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
+  @media only screen and (max-width: 600px) {
     header{
         padding: 0;
     }
@@ -344,12 +348,13 @@ footer{
         
     }
     .companies{
-        flex-wrap: wrap;
         padding: 0;
         padding: 50px;
-        /* flex-direction: column; */
+        /* flex-direction: column;*/
+        flex-direction: row;
         align-items: center;
     }
+    
     .companies svg{
         margin:25px 0;
     }
@@ -411,18 +416,91 @@ footer{
     }
 
   }
-  
   /* Medium devices (landscape tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
-    
+  @media only screen and (max-width: 1024px) {
+    header{
+        padding: 0;
+    }
+    nav{
+        padding: 20px;
+    }
+    .sec-2{
+        padding: 30px;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        
+    }
+    .sec-2-head{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .sec-2-con{
+        align-items: center;
+    }
+    .dash{
+        width: 100%;
+        margin-top: 10px;
+        padding: 0 10px;
+        
+    }
+    .border-bottom{
+        margin-bottom: 30px;
+    }
+    .features{
+        padding: 0;
+        padding: 0 20px 20px 20px;
+        align-items: center;
+    }
+    .features-con{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+    .features-head{
+        font-size: 40px;
+    }
+    .feature-blocks{
+        flex-direction: column;
+    }
+    .blocks{
+        width: 100%;
+    }
+    .trial{
+        margin: 0;
+        padding: 0px;
+        padding: 20px;
+        margin: 0 20px 30px 20px;
+        border-radius: 5px;
+
+    }
+    .trial-head{
+        padding: 0;       
+    }
+    footer{
+        margin: 0;
+        padding: 0;
+        padding: 50px;
+        align-items: center;
+    }
+    .socials{
+        padding: 0;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+    .socials a{
+        margin: 5px;
+    }
+    .terms{
+        padding: 0;
+        margin: 0;
+        flex-direction: row;
+        margin-bottom: 10px;
+    }
+    .copyright{
+        padding: 0;
+        margin: 0;
+    }
   } 
-  
-  /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
-    
-  } 
-  
-  /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-    
-  }
