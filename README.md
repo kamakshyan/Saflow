@@ -1,7 +1,7 @@
 # Saflow
 Saflow is an responsive website build on modern UI styling standards.
 
-![image](https://user-images.githubusercontent.com/91257779/189164066-21a202d5-cd8d-4e62-85e9-da0d58485026.png)
+![image](https://user-images.githubusercontent.com/91257779/189165457-0d43c3af-6318-4719-81a2-755a8331946e.png)
 
 
 ## Features
@@ -26,21 +26,10 @@ THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/IHasFishAnd
 
 # Website Mockups / Screenshots
 
-
-
-https://user-images.githubusercontent.com/91257779/189165092-9c3f8179-7760-4c0a-b328-90e0d5547f13.mp4
-
-
-
-https://user-images.githubusercontent.com/91257779/189165104-ec1d1953-4fa3-4c1d-9ac0-e061fd9180e2.mp4
-
-
-
-https://user-images.githubusercontent.com/91257779/189165111-f0b22fb9-e50a-44f0-8b5a-a9e562c3de31.mp4
-
-
-
-https://user-images.githubusercontent.com/91257779/189165115-93dffa72-6e96-4c6d-8394-ccdd9b260f2e.mp4
+https://user-images.githubusercontent.com/91257779/189166391-ebfc3b6d-e289-41f8-95b1-e187ff19e949.mp4
+https://user-images.githubusercontent.com/91257779/189166341-6ac1871a-9c25-44a5-9990-1dc240595059.mp4
+https://user-images.githubusercontent.com/91257779/189166277-2a01da8f-50ab-4593-b67a-cf0b439464c3.mp4
+https://user-images.githubusercontent.com/91257779/189166315-711e6dd7-0e8c-4c7b-a999-b23e07b71b7a.mp4
 
 
 
