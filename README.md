@@ -33,10 +33,12 @@ Desktop View
 ![image](https://user-images.githubusercontent.com/91257779/189169506-a4e0cfb0-de70-4c74-aea4-eda7c7286f3a.png)
 
 Tablet View
-![image](https://user-images.githubusercontent.com/91257779/189170269-ae1a7807-befd-4030-858a-ad27a036eb36.png)
+![image](https://user-images.githubusercontent.com/91257779/189170862-78327bb4-388b-4ca0-940b-2f886517488d.png)
+
 
 Mobile View
-![image](https://user-images.githubusercontent.com/91257779/189170422-2fe86f99-497b-4369-8b9f-b654d5b5a749.png)
+![image](https://user-images.githubusercontent.com/91257779/189170707-466a7442-57fc-46cb-abac-28613fd64503.png)
+
 
 
 
