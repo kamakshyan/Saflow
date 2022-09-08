@@ -20,7 +20,7 @@ Clone or [download a release](https://github.com/IHasFishAndChips/Saflow/)
  - [ ] Open `index.html` in your favorite text editor and launch the live server on the root folder.
 
 
-THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/IHasFishAndChips/Saflow/) FOR UPDATES.
+THEN YOU'RE DONE, GO STAR [Saflow](https://github.com/IHasFishAndChips/Saflow/) FOR UPDATES.
 
 ---
 
