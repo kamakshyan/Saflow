@@ -25,27 +25,22 @@ THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/IHasFishAnd
 
 ---
 
-# Website Screenshots
+# Website Screenshots/Videos
 
 View the website live in action [here](https://ihasfishandchips.github.io/)
 
-Desktop View
 ![image](https://user-images.githubusercontent.com/91257779/189169506-a4e0cfb0-de70-4c74-aea4-eda7c7286f3a.png)
 
-Tablet View
-![image](https://user-images.githubusercontent.com/91257779/189170862-78327bb4-388b-4ca0-940b-2f886517488d.png)
 
 
-Mobile View
-![image](https://user-images.githubusercontent.com/91257779/189170707-466a7442-57fc-46cb-abac-28613fd64503.png)
-
+https://user-images.githubusercontent.com/91257779/189171695-7d7cdb0a-3ef0-45c9-8b84-ce4becad40d3.mp4
 
 
 
 ## Author
 
-Mary Smith and [other contributors](https://github.com/fulldecent/html-website-template/graphs/contributors) made this website with love.
+[Kamakshya Nanda](https://github.com/IHasFishAndChips/) made this website with love.
 
 ## License
 
-Copyright 2017 Mary Smith. All rights reserved.
+~
