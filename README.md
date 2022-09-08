@@ -16,7 +16,6 @@ Responsive Design:
 
 Clone or [download a release](https://github.com/IHasFishAndChips/Saflow/)
 
-THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE BABY!
 
  - [ ] Open `index.html` in your favorite text editor and launch the live server on the root folder.
 
