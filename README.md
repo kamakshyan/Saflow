@@ -13,73 +13,36 @@ Responsive Design:
 
 ## How to use this
 
-Clone or download [download a release]https://github.com/IHasFishAndChips/Saflow/
+Clone or [download a release](https://github.com/IHasFishAndChips/Saflow/)
 
 THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE BABY!
 
- - [ ] Open `index.html` in your favorite text editor and make a great web page, add other content if necessary.
- - [ ] Fix all validation testing errors (see **Build instructions**, below)
- - [ ] Upload your website source code to GitHub or other collaboration point
- - [ ] Replace all details below, inspire people to contribute to your project.
- - [ ] Update the release script in `Rakefile` with details to publish to your server.
- - [ ] Delete all this crap up here.
- - [ ] Publish the site (full steps are under **Deploy** below in case you forget)
- - [ ] Set up HTTPS on your website, some [hints are here](https://github.com/fulldecent/html-website-template/wiki/How-to-set-up-HTTPS)
+ - [ ] Open `index.html` in your favorite text editor and launch the live server on the root folder.
 
-THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/fulldecent/html-website-template) FOR UPDATES.
+
+THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/IHasFishAndChips/Saflow/) FOR UPDATES.
 
 ---
 
-# My First Website About Horses
+# Website Mockups / Screenshots
 
-[![CI Status](http://img.shields.io/travis/fulldecent/html-website-template.svg?style=flat)](https://travis-ci.org/fulldecent/html-website-template)
 
-This website is published at https://example.com/horses/
 
-![screen shot 2017-03-16 at 6 30 58 pm](https://cloud.githubusercontent.com/assets/382183/24021325/cb3aaa9a-0a76-11e7-8182-6138b1d3c0c2.png)
+https://user-images.githubusercontent.com/91257779/189165092-9c3f8179-7760-4c0a-b328-90e0d5547f13.mp4
 
-## Mission
 
-This website exists to help educate the world about horses. There are so many kinds of horses and they are all just so magical. After you read these pages you will definitely want to get one for yourself!
 
-## Build instructions
+https://user-images.githubusercontent.com/91257779/189165104-ec1d1953-4fa3-4c1d-9ac0-e061fd9180e2.mp4
 
-We test and publish this website using a few simple tools. Please set up these tools (takes about 3 minutes) to contribute seriously to our project:
 
-1. Set up Ruby on your system
-   * For macOS, open Terminal.app and paste in these commands
-     * [Install Homebrew](https://brew.sh/) (click the link and paste that one command into Terminal.app)
-     * `brew install ruby`
-   * For Linux Mint, open Terminal and paste in these commands
-     * `sudo apt-get install ruby-dev build-essential libxml2 libxslt-dev libcurl4-openssl-dev`
-2. `gem update --system`
-2. `gem install bundler`
-3. `export NOKOGIRI_USE_SYSTEM_LIBRARIES=true`
-3. `bundle install`
 
-Now you are done setting up. Use this command to build the website.
+https://user-images.githubusercontent.com/91257779/189165111-f0b22fb9-e50a-44f0-8b5a-a9e562c3de31.mp4
 
-```sh
-bundle exec rake build
-```
 
-You can now access the website by pointing your browser to the `BUILD` folder or running a command like `cd BUILD; php -S localhost:8000`.
 
-Also, you can check for common problems on our website automatically, just run this command.
+https://user-images.githubusercontent.com/91257779/189165115-93dffa72-6e96-4c6d-8394-ccdd9b260f2e.mp4
 
-```sh
-bundle exec rake test
-```
 
-## Deploy instructions
-
-Use this command to publish the website online to our server.
-
-```sh
-bundle exec rake publish
-```
-
-You can only run that command if you have authorized SSH keys on your computer.
 
 ## Author
 
