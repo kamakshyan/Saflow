@@ -32,6 +32,8 @@ View the website live in action [here](https://ihasfishandchips.github.io/)
 ![image](https://user-images.githubusercontent.com/91257779/189169506-a4e0cfb0-de70-4c74-aea4-eda7c7286f3a.png)
 
 
+![image](https://user-images.githubusercontent.com/91257779/189172879-c9279654-0030-4c7d-99f2-50d142aa06c4.png)
+
 
 https://user-images.githubusercontent.com/91257779/189171695-7d7cdb0a-3ef0-45c9-8b84-ce4becad40d3.mp4
 
