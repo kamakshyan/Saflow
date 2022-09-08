@@ -1,5 +1,5 @@
 # Saflow
-Saflow is an responsive website build on modern UI styling standards.
+Saflow is an responsive website build on modern UI styling standards. View the website [live](https://ihasfishandchips.github.io/)
 
 ![image](https://user-images.githubusercontent.com/91257779/189165457-0d43c3af-6318-4719-81a2-755a8331946e.png)
 
@@ -10,6 +10,7 @@ Responsive Design:
 
  - The UI is responsive to all screen sizes, be it your iphone, ipad or your laptop !
  - Smooth animations enhance the user experience.
+ - Supports both Light and Dark mode. (Light/Dark mode is turned on/off based on your system theme)
 
 ## How to use this
 
@@ -24,24 +25,18 @@ THEN YOU'RE DONE, GO STAR [html-website-template](https://github.com/IHasFishAnd
 
 ---
 
-# Website Mockups / Screenshots
+# Website Screenshots
 
+View the website live in action [here](https://ihasfishandchips.github.io/)
 
+Desktop View
+![image](https://user-images.githubusercontent.com/91257779/189169506-a4e0cfb0-de70-4c74-aea4-eda7c7286f3a.png)
 
-https://user-images.githubusercontent.com/91257779/189166792-6ce88e32-4b95-4de6-8654-635098a6a67b.mp4
+Tablet View
+![image](https://user-images.githubusercontent.com/91257779/189170269-ae1a7807-befd-4030-858a-ad27a036eb36.png)
 
-
-
-https://user-images.githubusercontent.com/91257779/189166822-d002de8e-6664-40f8-b812-eeef9cea324d.mp4
-
-
-
-
-https://user-images.githubusercontent.com/91257779/189166888-1b58f2b9-3b3b-4dcf-a4a8-9e63ff56389f.mp4
-
-
-
-https://user-images.githubusercontent.com/91257779/189166927-9a42ea62-fa82-4cb5-8042-70c8f3279514.mp4
+Mobile View
+![image](https://user-images.githubusercontent.com/91257779/189170422-2fe86f99-497b-4369-8b9f-b654d5b5a749.png)
 
 
 
