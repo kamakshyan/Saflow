@@ -26,7 +26,7 @@ Clone or [download a release](https://github.com/IHasFishAndChips/Saflow/)
 
 View the website live in action [here](https://ihasfishandchips.github.io/)
 
-img src="assets/images/Dark.png" alt="Dark Mode Image" width=45%>   <img src = "assets/images/Light.png" alt="Light Mode Image" width=45%>
+<img src="assets/images/Dark.png" alt="Dark Mode Image" width=45%>   <img src = "assets/images/Light.png" alt="Light Mode Image" width=45%>
 
 ## Desktop - 1024px
 ![output-onlinegiftools](https://user-images.githubusercontent.com/91257779/189289547-0c328b6b-8a57-4ab7-8913-245498183b25.gif)
