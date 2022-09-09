@@ -1,119 +1,47 @@
-# Markdown Cheat Sheet
+# Saflow
+Saflow is an responsive website build on modern UI styling standards. View the website [live](https://ihasfishandchips.github.io/)
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+![image](https://user-images.githubusercontent.com/91257779/189165457-0d43c3af-6318-4719-81a2-755a8331946e.png)
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
-## Basic Syntax
+## Features
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+Responsive Design:
 
-### Heading
+ - The UI is responsive to all screen sizes, be it your iphone, ipad or your laptop !
+ - Smooth animations enhance the user experience.
+ - Supports both Light and Dark mode. (Light/Dark mode is turned on/off based on your system theme)
 
-# H1
-## H2
-### H3
+## How to use this
 
-### Bold
+Clone or [download a release](https://github.com/IHasFishAndChips/Saflow/)
 
-**bold text**
 
-### Italic
+ - [ ] Open `index.html` in your favorite text editor and launch the live server on the root folder.
 
-*italicized text*
 
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
+THEN YOU'RE DONE, GO STAR [Saflow](https://github.com/IHasFishAndChips/Saflow/) FOR UPDATES.
 
 ---
 
-### Link
+# Website Screenshots/Videos
 
-[Markdown Guide](https://www.markdownguide.org)
+View the website live in action [here](https://ihasfishandchips.github.io/)
 
-### Image
+![image](https://user-images.githubusercontent.com/91257779/189169506-a4e0cfb0-de70-4c74-aea4-eda7c7286f3a.png)
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-## Extended Syntax
+![image](https://user-images.githubusercontent.com/91257779/189172879-c9279654-0030-4c7d-99f2-50d142aa06c4.png)
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
-### Table
+https://user-images.githubusercontent.com/91257779/189171695-7d7cdb0a-3ef0-45c9-8b84-ce4becad40d3.mp4
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
-### Fenced Code Block
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+## Author
 
-### Footnote
+[Kamakshya Nanda](https://github.com/IHasFishAndChips/) made this website with love.
 
-Here's a sentence with a footnote. [^1]
+## License
 
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+~
