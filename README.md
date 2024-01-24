@@ -1,5 +1,5 @@
 # <img src = "assets/images/Vector.svg"> Saflow 
-Saflow is an responsive website build on modern UI styling standards. View the website [live](https://ihasfishandchips.github.io/)
+Saflow is an responsive website build on modern UI styling standards.
 
 ![image](https://user-images.githubusercontent.com/91257779/189165457-0d43c3af-6318-4719-81a2-755a8331946e.png)
 
